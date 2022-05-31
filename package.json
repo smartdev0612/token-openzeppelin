@@ -1,0 +1,24 @@
+{
+  "name": "token-openzeppelin",
+  "version": "1.0.0",
+  "description": "Create ERC20 and ERC721 tokens, prevent re-entrancy attack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartdev0612/token-openzeppelin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartdev0612/token-openzeppelin/issues"
+  },
+  "homepage": "https://github.com/smartdev0612/token-openzeppelin#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "truffle": "^5.5.16"
+  }
+}
